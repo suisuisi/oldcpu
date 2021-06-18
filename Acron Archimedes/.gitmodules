@@ -1,0 +1,6 @@
+[submodule "fpga/mist/mist-modules"]
+	path = fpga/mist/mist-modules
+	url = https://github.com/mist-devel/mist-modules.git
+[submodule "rtl/fdc1772"]
+	path = rtl/fdc1772
+	url = https://github.com/mist-devel/fdc1772-verilator.git
